@@ -1,0 +1,1958 @@
+{
+  "projects": [
+    {
+      "skip": false,
+      "outline": {
+        "name": "地域ポータルサイト構築",
+        "summary": "概要設計書を元にJava(Servlet/JSP)による実装～顧客先での結合テストを担当。実装メンバー内(3名)ではリーダー的まとめ役も担う",
+        "termFrom": "2002-04-01",
+        "termTo": "2002-07-31",
+        "manHour": 480,
+        "teamMembers": 10,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "DB2"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "WebSphere"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "IBM WebSphere Commerce Suite"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "大手自動車メーカーカーナビ連動情報サイト保守",
+        "summary": "運用中のカーナビのデータを利用した情報サイト(携帯版)の運用・保守",
+        "termFrom": "2004-03-01",
+        "termTo": "2004-09-30",
+        "manHour": 280,
+        "teamMembers": 4,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "Perl",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "Oracle"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "教育機関向け論文投稿・会員管理システム再構築",
+        "summary": "Java/Tomcatで構築されていたシステムを、コードから仕様を調査しPHPで全面再構築。",
+        "termFrom": "2004-12-01",
+        "termTo": "2005-03-31",
+        "manHour": 480,
+        "teamMembers": 4,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "Perl",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "HTML",
+          "XSLT",
+          "css"
+        ],
+        "databases": [
+          "Oracle"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "会員制ECサイト/会員管理システム保守",
+        "summary": "機能追加、バグ修正、仕様変更にともなう修正などの不定期な保守作業。",
+        "termFrom": "2006-02-01",
+        "termTo": "2007-08-31",
+        "manHour": 70,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "PostgreSQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "医薬品登録・検索システム改修",
+        "summary": "ベータ版として構築されていた医薬品の検索システムのデータ設計からのやり直し。",
+        "termFrom": "2006-05-01",
+        "termTo": "2006-07-31",
+        "manHour": 360,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "概要・基本設計",
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "PostgreSQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "気象情報連携CGI開発",
+        "summary": "公共機関サイト内に気象情報と連携するCGIを実装し組み込む",
+        "termFrom": "2006-08-01",
+        "termTo": "2006-08-31",
+        "manHour": 120,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Perl"
+        ],
+        "frontendLanguages": [
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "None"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "社内向け業務管理ツール開発",
+        "summary": "自社内での簡易的なタスク管理ツールを開発",
+        "termFrom": "2006-09-01",
+        "termTo": "2006-09-30",
+        "manHour": 120,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "詳細設計",
+          "デザイン・コーディング",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "基幹業務システム保守",
+        "summary": "仕様変更・追加にともなう追加開発。バッチ用のモジュールを実装。",
+        "termFrom": "2008-05-01",
+        "termTo": "2008-07-31",
+        "manHour": 480,
+        "teamMembers": 5,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "SQL",
+          "PL/SQL"
+        ],
+        "frontendLanguages": [],
+        "databases": [
+          "Oracle"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [],
+        "libraries": [],
+        "systemPlatformOs": [],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "ECサイト(携帯版)構築",
+        "summary": "革製品を取り扱うECサイトの携帯版サイトを新規に開発。顧客とのやり取り以外の実作業を担当",
+        "termFrom": "2008-08-01",
+        "termTo": "2008-09-31",
+        "manHour": 320,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "概要・基本設計",
+          "詳細設計",
+          "デザイン・コーディング",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "ASP",
+          "Perl",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "HTML",
+          "JavaScript",
+          "css"
+        ],
+        "databases": [
+          "MS SQLServer"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "IIS"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Windows Server"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "レンタルFC加盟店向けグループウェア・ECシステム構築",
+        "summary": "グループウェア・ECシステムの開発プロジェクトにプログラマとして参画。",
+        "termFrom": "2008-10-01",
+        "termTo": "2009-04-30",
+        "manHour": 1120,
+        "teamMembers": 30,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML"
+        ],
+        "databases": [
+          "Oracle"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Struts",
+          "Spring",
+          "iBATIS"
+        ],
+        "webServers": [
+          "Tomcat"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "勤怠管理ソフトウェア開発",
+        "summary": "勤怠管理のためのインストール型ソフトウェアの開発",
+        "termFrom": "2009-05-01",
+        "termTo": "2009-08-31",
+        "manHour": 640,
+        "teamMembers": 6,
+        "assignedTasks": [
+          "詳細設計",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "C#",
+          "SQL"
+        ],
+        "frontendLanguages": [],
+        "databases": [
+          "MS SQLServer"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [],
+        "libraries": [],
+        "os": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Visual Studio"
+        ],
+        "vcs": [
+          "vss"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "就業データ管理ツール開発",
+        "summary": "MS Accessによる就業データ管理ツールの開発。",
+        "termFrom": "2009-09-01",
+        "termTo": "2009-09-30",
+        "manHour": 160,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "AccessVBA"
+        ],
+        "frontendLanguages": [],
+        "databases": [
+          "MS Access"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Windows"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+          "MS Access"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "FC加盟店向けECシステム保守開発",
+        "summary": "運用中のECシステムの機能追加・バグ修正などの保守開発",
+        "termFrom": "2009-10-01",
+        "termTo": "2010-01-31",
+        "manHour": 640,
+        "teamMembers": 7,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java",
+          "SQL",
+          "PL/SQL"
+        ],
+        "frontendLanguages": [
+          "HTML",
+          "JavaScript"
+        ],
+        "databases": [
+          "Oracle"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [],
+        "libraries": [],
+        "systemPlatformOs": [],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "vss"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+          "QuiQpro(開発支援ツール)"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "旅行情報ポータルサイト・予約システムリニューアル開発",
+        "summary": "既存システム(ColdFusion/Perl)の統合・リニューアルプロジェクトにおいて、要件定義段階の設計書作成、モック用の画面WFの作成等に従事。",
+        "termFrom": "2010-02-01",
+        "termTo": "2010-04-30",
+        "manHour": 480,
+        "teamMembers": 7,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "デザイン・コーディング",
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [],
+        "frontendLanguages": [
+          "HTML",
+          "css"
+        ],
+        "databases": [],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [],
+        "libraries": [],
+        "systemPlatformOs": [],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [],
+        "vcs": [],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "大手ISP会社ポータルサイト保守",
+        "summary": "運用中ポータルサイトのコンテンツ追加・変更にともなう改修・追加実装業務。",
+        "termFrom": "2010-07-01",
+        "termTo": "2010-09-30",
+        "manHour": 480,
+        "teamMembers": 5,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Perl"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "None"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "os": [
+          "Linux"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "ソーシャルモバイルゲーム開発",
+        "summary": "ソーシャルモバイルゲームの新規開発プロジェクトに開発～リリース・運用まで携わる。(プラットフォームはGree/Mbga)",
+        "termFrom": "2010-10-01",
+        "termTo": "2011-03-31",
+        "manHour": 960,
+        "teamMembers": 30,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL",
+          "KVS"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Symfony"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "MantisBT"
+        ],
+        "otherToolsAndService": [
+          "cygwin"
+        ]
+      }
+    },
+    {
+      "skip": true,
+      "outline": {
+        "name": "ITシステム開発企業向け新入社員研修 補助",
+        "summary": "新人研修(Java)コースに補助講師として従事。受講生はおよそ30名",
+        "termFrom": "2011-04-01",
+        "termTo": "2011-06-30",
+        "manHour": 320,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "DB2"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [
+          "Tomcat"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Windows"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "Androidマーケットアプリ(バックエンド)開発",
+        "summary": "Androidネイティブアプリ用のバックエンド部分の改修",
+        "termFrom": "2011-06-01",
+        "termTo": "2011-08-31",
+        "manHour": 480,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [
+          "Zend Framework"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows",
+          "Mac"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "携帯会社 ブックストアサイト構築",
+        "summary": "既存ブックストアサイトのリニューアル開発。データはAPIで別システムから連携。",
+        "termFrom": "2011-09-01",
+        "termTo": "2011-09-30",
+        "manHour": 160,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "None"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "CakePHP"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "prototype.js"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "ファッションECサイトリニューアル開発",
+        "summary": "既存ECサイトのリニューアル開発(PC/スマートフォン対応)。",
+        "termFrom": "2011-10-01",
+        "termTo": "2012-01-31",
+        "manHour": 640,
+        "teamMembers": 10,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Zend Framework"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "prototype.js"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [],
+        "privateTags": [
+          "Site Publis(CMS)"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "ソーシャルモバイルゲーム開発",
+        "summary": "ソーシャルモバイルゲームの運用・保守および新規開発。(プラットフォームはGree/Mbga)",
+        "termFrom": "2012-02-01",
+        "termTo": "2013-06-30",
+        "manHour": 800,
+        "teamMembers": 30,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL",
+          "KVS"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Symfony"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "MantisBT"
+        ],
+        "otherToolsAndService": [
+          "cygwin"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "ソーシャルゲーム向けデータ分析ツール開発・保守",
+        "summary": "運用で利用するデータ分析のためのツール開発および機能追加等の保守。(対象ゲームはネイティブアプリ)",
+        "termFrom": "2013-07-01",
+        "termTo": "2014-03-31",
+        "manHour": 1440,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Laravel"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "Redmine"
+        ],
+        "otherToolsAndService": [
+          "cygwin"
+        ]
+      }
+    },
+    {
+      "skip": true,
+      "outline": {
+        "name": "ITシステム開発企業向け新入社員研修 補助",
+        "summary": "新人研修(Java)コースに補助講師として従事。受講生はおよそ30名",
+        "termFrom": "2014-04-01",
+        "termTo": "2014-06-04",
+        "manHour": 320,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "DB2"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [
+          "Tomcat"
+        ],
+        "libraries": [],
+        "os": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "ゴルフ情報コンテンツ企業内の常駐SE",
+        "summary": "追加ECサイトの開発、企画デモ用の各種モックシステム開発",
+        "termFrom": "2014-06-11",
+        "termTo": "2014-08-31",
+        "manHour": 400,
+        "teamMembers": 4,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "詳細設計",
+          "デザイン・コーディング",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "scss"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "bootstrap",
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [
+          "Backlog"
+        ],
+        "otherToolsAndService": [
+          "cygwin"
+        ],
+        "privateTags":  [
+          "Solr",
+          "EC-CUBE(CMS)"
+        ]
+      }
+    },
+    {
+      "skip": true,
+      "outline": {
+        "name": "ITシステム開発企業向け新入社員研修 補助",
+        "summary": "新人研修(Java)コースに補助講師として従事。受講生はおよそ30名",
+        "termFrom": "2015-04-01",
+        "termTo": "2015-06-30",
+        "manHour": 320,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "DB2"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [
+          "Tomcat"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Windows"
+        ],
+        "devWorkOs": [
+          "Windows"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "svn"
+        ],
+        "projectManagementTools": [],
+        "otherToolsAndService": []
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "コーポレートサイト構築(2社分)",
+        "summary": "コーポレートサイト新規構築案件の要件定義～リリースまで対応。http://mu-trading.jp http://jb-company.jp/",
+        "termFrom": "2015-01-01",
+        "termTo": "2015-10-31",
+        "manHour": 235,
+        "teamMembers": 1,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "詳細設計",
+          "デザイン・コーディング",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート",
+          "インフラ整備",
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "None"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [],
+        "libraries": [
+          "bootstrap",
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "None"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+          "cygwin",
+          "Illustrator",
+          "PhotoShop"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "医療系メディアサイト追加機能開発",
+        "summary": "ベータ版としてリリース済みサイトの主にDrupal(ver.8)を利用したサイトテーマ構築・モジュール開発を担当",
+        "termFrom": "2016-04-01",
+        "termTo": "2016-06-30",
+        "manHour": 443,
+        "teamMembers": 5,
+        "assignedTasks": [
+          "詳細設計",
+          "デザイン・コーディング",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Laravel"
+        ],
+        "webServers": [
+          "Nginx"
+        ],
+        "libraries": [
+          "bootstrap",
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Mac"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "phpStorm"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "JIRA"
+        ],
+        "otherToolsAndService": [
+          "Vagrant",
+          "Docker",
+          "Drupal",
+          "GitHub",
+          "Slack",
+          "CircleCI",
+          "Confluence",
+          "AWS"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "会員制レンタルサイトのリプレイス開発",
+        "summary": "進行中のサイトリプレイス案件(フレームワークを変更して再構築)において、リリースのための各種進行業務およびリリース後の運用・保守、サービス仕様変更に伴う追加開発に携わる",
+        "termFrom": "2016-07-01",
+        "termTo": "2016-11-30",
+        "manHour": 322,
+        "teamMembers": 3,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート",
+          "インフラ整備",
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Laravel",
+          "CodeIgniter"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Mac"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "phpStorm"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "PivotalTracker",
+          "Github issue"
+        ],
+        "otherToolsAndService": [
+          "Vagrant",
+          "Slack",
+          "GitHub",
+          "CircleCI",
+          "AWS",
+          "esa"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "CMSアプリケーションの追加機能開発",
+        "summary": "SaaS型CMSアプリケーションの追加機能開発",
+        "termFrom": "2017-05-01",
+        "termTo": "2017-09-30",
+        "manHour": 590,
+        "teamMembers": 4,
+        "assignedTasks": [
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "Java"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "PostgreSQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "None"
+        ],
+        "webServers": [
+          "Tomcat"
+        ],
+        "libraries": [
+          "jQuery",
+          "Velocity"
+        ],
+        "systemPlatformOs": [
+          "Windows",
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "Eclipse"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "Redmine"
+        ],
+        "otherToolsAndService": [
+          "cygwin",
+          "GitLab"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "旅行ECサイトマーケティング用システム構築",
+        "summary": "基幹システムのフルリプレイスに合わせて導入予定の、マーケティング関連外部サービス(ML/Recommend)との連携システム(データウェアハウス及びバッチ)を設計・構築",
+        "termFrom": "2017-11-01",
+        "termTo": "2018-02-29",
+        "manHour": 513,
+        "teamMembers": 2,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート",
+          "インフラ整備"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "SQL",
+          "Python"
+        ],
+        "frontendLanguages": [],
+        "databases": [
+          "PostgreSQL",
+          "MS SQLServer"
+        ],
+        "frameworksFront": [],
+        "frameworksBackend": [],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "None"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+          "cygwin",
+          "Vagrant",
+          "AWS"
+        ],
+        "privateTags":  [
+          "Oracle",
+          "Azure"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "不動産向けCMSアプリケーション新規開発",
+        "summary": "進行中のSaaS型CMSアプリケーションの新規開発案件に開発エンジニアとして参画",
+        "termFrom": "2018-03-01",
+        "termTo": "2018-05-31",
+        "manHour": 329,
+        "teamMembers": 5,
+        "assignedTasks": [
+          "概要・基本設計",
+          "詳細設計",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Laravel"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "bootstrap",
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "phpStorm"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "JIRA"
+        ],
+        "otherToolsAndService": [
+          "cygwin",
+          "Vagrant",
+          "Bitbucket",
+          "Confluence",
+          "Slack"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "コーポレート＆商品紹介サイト新規開発",
+        "summary": "ユーザー・コンテンツ管理機能含む、商品紹介のためのコーポレートサイトの新規開発。 (https://yukakobo.co.jp)",
+        "termFrom": "2018-06-01",
+        "termTo": "2018-11-30",
+        "manHour": 408,
+        "teamMembers": 1,
+        "assignedTasks": [
+          "要件定義",
+          "概要・基本設計",
+          "詳細設計",
+          "デザイン・コーディング",
+          "バックエンド実装・単体テスト",
+          "フロント実装・単体テスト",
+          "結合・総合テスト",
+          "保守・運用・サポート",
+          "その他"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [
+          "PHP",
+          "SQL"
+        ],
+        "frontendLanguages": [
+          "JavaScript",
+          "HTML",
+          "css"
+        ],
+        "databases": [
+          "MySQL"
+        ],
+        "frameworksFront": [
+          "None"
+        ],
+        "frameworksBackend": [
+          "Laravel"
+        ],
+        "webServers": [
+          "Apache"
+        ],
+        "libraries": [
+          "bootstrap",
+          "jQuery"
+        ],
+        "systemPlatformOs": [
+          "Linux"
+        ],
+        "devWorkOs": [
+          "Windows(+cygwin)",
+          "Mac"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "phpStorm"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "None"
+        ],
+        "otherToolsAndService": [
+          "cygwin",
+          "Vagrant",
+          "Illustrator",
+          "PhotoShop"
+        ]
+      }
+    },
+    {
+      "skip": false,
+      "outline": {
+        "name": "医療機器メーカーWEBアプリケーションリニューアル開発",
+        "summary": "進行中のWEBシステムリニューアル案件にフロントエンドエンジニアとして参画。(Angular Ver.6)",
+        "termFrom": "2019-04-01",
+        "termTo": "2019-09-30",
+        "manHour": 605,
+        "teamMembers": 5,
+        "assignedTasks": [
+          "詳細設計",
+          "フロント実装・単体テスト",
+          "結合・総合テスト"
+        ]
+      },
+      "technicalDetails": {
+        "backendLanguages": [],
+        "frontendLanguages": [
+          "HTML",
+          "scss",
+          "TypeScript"
+        ],
+        "databases": [],
+        "frameworksFront": [
+          "Angular"
+        ],
+        "frameworksBackend": [],
+        "webServers": [],
+        "libraries": [
+          "bootstrap",
+          "Angular Material"
+        ],
+        "systemPlatformOs": [],
+        "devWorkOs": [
+          "Mac"
+        ]
+      },
+      "developmentTools": {
+        "ide": [
+          "phpStorm"
+        ],
+        "vcs": [
+          "git"
+        ],
+        "projectManagementTools": [
+          "Backlog",
+          "GitLab"
+        ],
+        "otherToolsAndService": [],
+        "privateTags": [
+          "UserHeat",
+          "Mouseflow",
+          "Metronic",
+          "Highcharts"
+        ]
+      }
+    }
+  ]
+}
