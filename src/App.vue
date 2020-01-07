@@ -1,28 +1,30 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <div id="app">
+        <Header></Header>
+        <div class="contents-container-wrap">
+            <JobResumeChart></JobResumeChart>
+        </div>
+        <Footer></Footer>
+        <Overlay></Overlay>
+    </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+    import Header from "./components/layout/TheHeader";
+    import Footer from "./components/layout/TheFooter";
+    import JobResumeChart from "./components/JobResumeChart";
+    import Overlay from "./components/layout/TheOverlay";
 
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
+    export default {
+        name: 'app',
+        components: {
+            Overlay,
+            JobResumeChart,
+            Footer,
+            Header,
+        },
+    }
 </script>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<style lang="scss">
 </style>

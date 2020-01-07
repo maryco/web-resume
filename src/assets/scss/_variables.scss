@@ -1,0 +1,108 @@
+//
+// Variables.
+//
+
+$iro-primary: #546365;
+$iro-primary-light: #adc4c4;
+$iro-primary-dark: #3e4849;
+$iro-accent: #db5463;
+
+$iro-grey: #aaaaaa;
+$iro-grey-light: #f9f9f9;
+$iro-grey-dark: #4d4d4d;
+
+$iro-black: #000;
+$iro-white: #fff;
+$iro-text: #4d4d4d;
+
+$iro-gauge-01: #eac295;
+$iro-gauge-02: #eaea95;
+$iro-gauge-03: #b8ea95;
+$iro-gauge-04: #a69ab0;
+$iro-gauge-05: #8d74b0;
+$iro-gauge-06: #70a2dd;
+$iro-gauge-07: #b0a272;
+$iro-gauge-08: #e09f63;
+$iro-gauge-09: #779595;
+$iro-gauge-10: #e2a8a8;
+$iro-gauge-11: #c0ceaa;
+$iro-gauge-12: #abbcd3;
+$iro-gauge-13: #e5d177;
+
+$font-size-md: 1.25rem; // = 20px
+$font-size-base: 1.0rem; // base 16px
+$font-size-sm: .75rem; // = 12px
+
+$letter-sp-md: .1rem;
+$letter-sp-lg: .2rem;
+$letter-sp-ex: .4rem;
+
+$font-family-gothic: Raleway, Montserrat, "Noto Sans JP", "Noto Sans CJK JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic";
+
+// Breakpoints for media query (refer from bootstrap 4.0)
+// Usage) @media (max-width: map-get($grid-breakpoints, 'sm')) {
+$breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  ipadpro: 1024px,
+  xl: 1200px
+) !default;
+
+$breakpoint-sm: 576px;
+
+$mg-base: 44px;
+$mg-sm: 24px;
+
+// Etc
+
+$box-shadow-sm: .1rem .1rem .4rem rgba($iro-black, .075);
+$box-shadow-base: .125rem .125rem 1rem rgba($iro-black, .075);
+$box-shadow-lg: .3rem .3rem .4rem rgba($iro-black, .075);
+
+$box-radius-base: 2px;
+
+// Elements Sizes
+
+$header-height-md: 270px;
+$header-height-sm: 270px;
+
+$footer-height: 236px;
+
+@mixin text-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+$btn-transition: color .15s ease-in-out, background-color .15s ease-in-out, box-shadow .15s ease-in-out;
+
+$z-layers: (
+        controll-module: 10,
+        overlay: 20,
+) !default;
+
+@mixin prevent-user-select() {
+  cursor: default;
+  user-select: none;
+  pointer-events: none;
+  -webkit-touch-callout: none;
+  &::selection {
+    background: none;
+  }
+}
+
+@mixin hide-scrollbar() {
+  &::-webkit-scrollbar { // For Webkit
+    display: none;
+  }
+  -ms-overflow-style: none; // For IE/Edge
+  scrollbar-width: none; // For FF
+}
+
+@mixin button-behavior() {
+  cursor: pointer;
+  user-select: none;
+  -webkit-touch-callout: none;
+}

@@ -1,0 +1,8 @@
+.md-show {
+  display: none;
+}
+@media (min-width: map-get($breakpoints, 'md')) {
+  .md-show {
+    display: block;
+  }
+}
